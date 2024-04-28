@@ -5,5 +5,5 @@ for j = 1 to 20
      if i mod 2 =0 then print i
       list1.addItem i
    next i
-print j
+
 next j
